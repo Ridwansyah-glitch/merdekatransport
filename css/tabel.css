@@ -1,0 +1,6 @@
+/*  tables
+	******************************/
+	table,th,td {border:1px solid black;}
+	th {padding:3px; font-weight:bold;color:white;background-color:#6610f2;}
+	tr {margin:0 0 5px 0;padding:3px;}
+	td {padding:5px;margin:0 1px;}
